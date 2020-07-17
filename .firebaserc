@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "vue-firebase-tst": "vue-firebase-tst",
+    "default": "vue-firebase-tst"
+  }
+}
